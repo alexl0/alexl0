@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3 align="center">Software engineer</h3>
 
-- 🔭 I’m currently working on **Seresco**
+- 🔭 I’m currently working on **[Seresco](https://seresco.es/ "Seresco's Homepage")**
 
 - 🌱 I’m currently learning **Android development, as well as web development**
 
