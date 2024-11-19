@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">Software engineer</h3>
+<h3 align="center">Software engineer at Izertis</h3>
 
 - 🌱 I’m currently learning **Android development, as well as web development**
 
